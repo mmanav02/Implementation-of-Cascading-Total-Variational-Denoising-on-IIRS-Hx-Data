@@ -17,5 +17,9 @@ Peak-SNR: 34.55dB \
 ### Acknowledgement:
 We acknowledge the use of data from the Chandrayaan-II, second lunar mission of the Indian Space Research Organisation (ISRO), archived at the Indian Space Science Data Centre (ISSDC).
 
+The research has been presented at the 55th Lunar and Planetary Science Conference hosted by Lunar Planetary Institute.
+To cite the research:
+Avasthi, K., Vakharia, M., Chokshi, A., Vyas, T., Nair, A., Desai, S., Tanwar, S. and Bhattacharya, S., 2024. Implementation of Cascading Total Variation Denoising (C-TVD) on Chandrayaan-II IIRS Lunar Hyperspectral Data. LPI Contributions, 3040, p.2153.
+
 ### References:
 [1] A. Chambolle, An algorithm for total variation minimization and applications, Journal of Mathematical Imaging and Vision, Springer, 2004, 20, 89-97.
